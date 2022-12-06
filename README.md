@@ -36,4 +36,6 @@ modification du fichier stock.py
 
 lors de l'execution il y a une erreur et je suppose que c'est parce qu'on n'a pas les permissions pour écrire dans le data stream
 
+Pour résoudre le problème il faut lui donner la permission
+
 
