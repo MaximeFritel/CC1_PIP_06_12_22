@@ -24,6 +24,8 @@ Console AWS
 Question 4.1
 aws kinesis delete-stream --stream-name Maxime-Fritel-stock-input-stream
 problème de région par défaut qui n'est pas la bonne
+trouvé
+aws kinesis delete-stream --stream-name Maxime-Fritel-stock-input-stream --region "eu-north-1"
 
 
 Question 4.2
