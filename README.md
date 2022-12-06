@@ -1,7 +1,7 @@
 # CC1_PIP_06_12_22
 Maxime Fritel
 CC1 PIP
-
+regarder les images pour voir les captures d'écran
 
 Question 1 :
 Création terraform modification des fichiers key_pair, main et provider
@@ -30,5 +30,8 @@ aws kinesis delete-stream --stream-name Maxime-Fritel-stock-input-stream --regio
 
 Question 4.2
 aws kinesis create-stream --stream-name Maxime-Fritel-stock-input-stream --region "eu-north-1" --shard-count 1
+
+Question 5
+modification du fichier stock.py 
 
 
