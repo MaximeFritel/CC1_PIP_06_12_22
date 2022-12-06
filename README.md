@@ -38,4 +38,10 @@ lors de l'execution il y a une erreur et je suppose que c'est parce qu'on n'a pa
 
 Pour résoudre le problème il faut lui donner la permission
 
+j'execute les commande suivante trouver sur https://docs.aws.amazon.com/streams/latest/dev/writing-with-agents.html
+
+sudo yum install –y aws-kinesis-agent
+sudo yum install –y https://s3.amazonaws.com/streaming-data-agent/aws-kinesis-agent-latest.amzn1.noarch.rpm
+
+
 
