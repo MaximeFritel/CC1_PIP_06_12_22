@@ -34,4 +34,6 @@ aws kinesis create-stream --stream-name Maxime-Fritel-stock-input-stream --regio
 Question 5
 modification du fichier stock.py 
 
+lors de l'execution il y a une erreur et je suppose que c'est pour des histoires de droit d'accès
+
 
