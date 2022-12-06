@@ -29,4 +29,6 @@ aws kinesis delete-stream --stream-name Maxime-Fritel-stock-input-stream --regio
 
 
 Question 4.2
-utiliser https://docs.aws.amazon.com/streams/latest/dev/fundamental-stream.html
+aws kinesis create-stream --stream-name Maxime-Fritel-stock-input-stream --region "eu-north-1" --shard-count 1
+
+
